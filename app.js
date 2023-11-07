@@ -1,3 +1,5 @@
+//Wilson 的小組任務作業1
+
 var chiefOfVillageList;
 fetch("./data.json")
 .then((res) => {
